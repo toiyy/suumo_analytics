@@ -1,0 +1,11 @@
+beautifulsoup4
+requests
+lxml
+pandas
+scikit-learn
+lightgbm
+xgboost
+matplotlib
+seaborn
+jupyter
+tqdm
